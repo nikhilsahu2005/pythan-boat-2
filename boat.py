@@ -4,7 +4,7 @@ import pyperclip
 import google.generativeai as genai
 
 # 🔑 API KEY
-genai.configure(api_key="AIzaSyC5_pDnxQhtwU6x6uvtMJl34U1LsyH1r-E")
+genai.configure(api_key="")
 
 model = genai.GenerativeModel("gemini-1.5-flash")
 
