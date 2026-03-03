@@ -3,7 +3,7 @@ import pyperclip
 import time
 import requests
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 
 time.sleep(3)
 
