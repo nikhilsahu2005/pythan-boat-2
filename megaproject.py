@@ -4,7 +4,7 @@ import time
 from google import genai
 
 # 🔐 Gemini Client
-client = genai.Client(api_key="AIzaSyDU7e5W77jGORsCh9iPO_ttWfNpsEoTz9I")
+client = genai.Client(api_key="")
 
 time.sleep(3)
 
